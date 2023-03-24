@@ -3,7 +3,7 @@
 body {
   padding: 25px;
   font-family: "Droid Serif", serif;
-  background: #4f7482;
+  background: #3385a3;
   @media screen and (min-width: 750px) {
     padding: 50px;
   }
